@@ -14,7 +14,7 @@ How to Run:
    pip install matplotlib
 
 2. Run the benchmark script:
-   python benchmark.py
+   python main.py
 
 What It Does:
 
